@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub issues](https://img.shields.io/github/issues/zaineel/computer_vision_mnist)]
-(https://github.com/zaineel/computer_vision_mnist/issues)
+[![GitHub stars](https://img.shields.io/github/stars/zaineel/computer_vision_mnist)]`
 [![GitHub forks](https://img.shields.io/github/forks/zaineel/computer_vision_mnist)]
 
 This repository contains a computer vision model trained on the MNIST dataset. The MNIST dataset is a widely used benchmark dataset for handwritten digit recognition. The model implemented here utilizes deep learning techniques to achieve high accuracy in digit classification.
